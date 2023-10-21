@@ -1,2 +1,1 @@
-# ogres
-monsters
+# PRO-C165-Student-Activity
